@@ -1,7 +1,7 @@
 ---------------------------------------------------
 -- Example 
 ---------------------------------------------------
-require "Lua_Behavior_Tree.lua"
+require "Lua_Behavior_tree.lua"
 
 --blackboard test 
 local randy = Blackboard:new("SecondBoard")
